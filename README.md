@@ -1,7 +1,8 @@
 # SDHacks Web Dev Hackpack
 
+
+![SD_Hacks_logo](./resource/SD_Hacks_Logo_1.png)
 ![CSES_logo](./resource/cseslogo.png)
-![SD_Hacks_logo](./resource/SD_Hacks_Logo_White_Background.png)
 
 We'll be building an app that will take user input, save it to a database, and display it on the page. Building a full stack application like this means that you'll write front-end, back-end, and database code. Use this as a starting point and get familiar with all parts of the stack so you can hack a cool site at SDHacks!
 
