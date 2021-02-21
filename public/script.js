@@ -6,6 +6,12 @@
     img.src="image1.jpg";
   });
   
+  function start() {
+    document.getElementById("startPage").style.display = "none";
+    document.getElementById("firstPage").style.display = "block";
+    console.log("start");
+  }
+
   function scrollPage2() {
     document.getElementById("secondPage").style.display = "block";
     window.scrollTo(0,1000);
@@ -19,6 +25,8 @@
   function scrollPage1() {
     document.getElementById("secondPage").style.display = "none";
     document.getElementById("thirdPage").style.display = "none";
+    document.getElementById("firstPage").style.display = "none";
+    document.getElementById("startPage").style.display = "block";
     window.scrollTo(0,0);
   }
 

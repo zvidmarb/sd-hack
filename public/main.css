@@ -7,10 +7,20 @@ body {
   background-color: #aa9c9c;
   font-family: Arial, sans-serif;
   color: #fff;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#startpage{
+  min-height: 900px;
+  display: block;
+
 }
 
 #firstPage{
   min-height: 900px;
+  display: none;
   color: #0f5f74
 }
 
