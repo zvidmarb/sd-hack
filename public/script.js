@@ -1,3 +1,11 @@
+  var img = document.getElementById("img0");
+
+  img.addEventListener("click", function(){
+    img.classList.toggle("jello-horizontal");
+    console.log('clicked');
+    img.src="image1.jpg";
+  });
+  
   function scrollPage2() {
     document.getElementById("secondPage").style.display = "block";
     window.scrollTo(0,1000);
@@ -13,3 +21,5 @@
     document.getElementById("thirdPage").style.display = "none";
     window.scrollTo(0,0);
   }
+
+  
