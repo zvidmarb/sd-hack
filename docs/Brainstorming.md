@@ -30,6 +30,7 @@
     1. character creation type game with a twist - teaches
 
 
+
 # Solution Brainstorming
 
 ## Remote Education
@@ -38,13 +39,13 @@
 ## Sustainability 
   1. Image recognition app for recyclables/ identify plastics
   2. Image recognition app for soil
-  3. *Educational app that shows the scale of corporate sustainability issues*
+  3. **Educational app that shows the scale of corporate sustainability issues**
         -Compare individual footprint to corporate
   4. Carbon footprint tracker - e.g. tracks driving
 ## Urban Innovation 
   1. Scheduling vaccination appointments for elders app
   2. Educational app demonstrating how inaccessible healthy food is to different demographics
 ## Civic Engagement
-  1. **character creation type game with a twist - showcases the horrible reality of inequities based on the race, gender, etc.**
+  1. character creation type game with a twist - showcases the horrible reality of inequities based on the race, gender, etc.
      - more specifically, UCSD student data?
   2. more accessible UI-friendly government sites (like Calfresh)
