@@ -3,17 +3,33 @@
   <head>
     <meta charset="utf-8">
     <title>SDHacks Web Hackpack - Next Todo</title>
-    <link rel="stylesheet" href="/main.css">
+    <link rel="stylesheet" href="main.css">
   </head>
+
   <body>
-    <h1>Next Todo</h1>
-    <form name="ideaForm" action="/ideas" method="post">
-      <input type="test" name="idea" size="40" placeholder="Add an Idea">
-      <button type="submit">Submit</button>
-    </form>
+    <div id = "firstPage">
+      <p> First screen test</p>
+      <button onclick="scrollPage2()">Click me to scroll down!</button><br><br>
 
-    <ul></ul>
 
-    <script src="https://code.jquery.com/jquery-3.1.0.min.js" ></script>
-    </body>
+    </div>
+
+     
+
+    <div id = "secondPage">
+      <p> Second screen test</p>
+      <button onclick="scrollPage3()">Click me to scroll down!</button><br><br>
+
+
+    </div>
+
+    <div id = "thirdPage">
+      <p> Third screen test</p>
+      <button onclick="scrollPage1()">Click me to scroll up and hide pages!</button><br><br>
+    </div>
+  </body>
+
+
+  <script src="\public\script.js"></script>
+
 </html>

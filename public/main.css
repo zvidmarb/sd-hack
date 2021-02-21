@@ -1,8 +1,27 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   padding: 30px;
-  background-color: #84888a;
+  background-color: #aa9c9c;
   font-family: Arial, sans-serif;
   color: #fff;
+}
+
+#firstPage{
+  min-height: 900px;
+  color: #0f5f74
+}
+
+#secondPage{
+  min-height: 900px;
+  display: none;
+}
+
+#thirdPage{
+  min-height: 900px;
+  display: none;
 }
 
 form {
