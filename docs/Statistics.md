@@ -1,9 +1,9 @@
 ### Statistics
 
-## carbon emission for average american
+## carbon emission for average american per year
 16.6 metric tons of CO2 (tCO2e) [15.5 in 2016, world bank]
 
-## carbon emission for annual average rest of the world
+## carbon emission for rest of the world per year
 4.555 metric tons of CO2 (2016, world bank)
 
 ## american population (2019)
