@@ -20,4 +20,5 @@
   - lukoil: 341 MtCO2e
 
 *only 8 of top 20 in 2018 were non-state owned*
+
 *top 20 companies made up 14,152 of 39,978 MtCO2e globally in 2018*
